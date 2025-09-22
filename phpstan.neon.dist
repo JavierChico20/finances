@@ -1,0 +1,34 @@
+includes:
+  - ./vendor/phpstan/phpstan/conf/bleedingEdge.neon
+
+parameters:
+  level: max
+  paths:
+    - app
+    - config
+    - database
+
+  # 🚫 exclusões
+  excludePaths:
+    - database/migrations/*
+    - bootstrap/*
+    - storage/*
+    - public/*
+
+  # 🔐 autoload básico (sem bootar a app)
+  bootstrapFiles:
+    - vendor/autoload.php
+
+  # 📝 trate PHPDoc com cautela (menos falsos positivos)
+  treatPhpDocTypesAsCertain: false
+
+  # 🧰 objetos "caixa-preta" comuns do Laravel
+  universalObjectCratesClasses:
+    - Illuminate\Database\Eloquent\Model
+    - Illuminate\View\View
+    - stdClass
+
+  # 🧠 Larastan – checks úteis
+  checkModelProperties: true
+  # checkModelMagicWhere: true
+  # checkModelRelationExistence: true
