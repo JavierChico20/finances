@@ -31,3 +31,5 @@ yarn-error.log
 *:[Zz]one.Identifier
 *:[Zz]one.Identifier.*
 node_modules
+vendor
+*.log
