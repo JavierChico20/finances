@@ -30,3 +30,4 @@ yarn-error.log
 # Windows NTFS ADS (aparecem no WSL)
 *:[Zz]one.Identifier
 *:[Zz]one.Identifier.*
+node_modules
